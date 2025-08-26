@@ -105,3 +105,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+### Notes by Tingrui Zhang
+- This repo is very helpful.
+- I’m learning Git and GitHub step by step!
