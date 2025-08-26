@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# This is Pristine.
 
 ## 🤓 Course overview and learning outcomes 
 
