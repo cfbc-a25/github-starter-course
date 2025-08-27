@@ -20,6 +20,11 @@ The GitHub flow is a lightweight workflow that allows you to experiment and coll
 
 A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
 
+### Personal Hobbies
+
+GitHub is very important for every data scientist. However, good body condition is also very important. 
+So from now on, start with any sport you like, and become a healthier version of yourself!
+
 ### Cloning 
 
 When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
