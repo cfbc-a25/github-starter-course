@@ -1,3 +1,5 @@
+# MACS 30120 1 (Autumn 2025) Computing Fundamentals Boot Camp 
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
