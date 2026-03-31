@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub (MACS 30120)
 
 ## 🤓 Course overview and learning outcomes 
 
